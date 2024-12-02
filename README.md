@@ -1,2 +1,2 @@
 # KafkaSample
-Kafka demonstration function product and consumer in the C#
+Kafka demonstration function productor and consumer in the C#
