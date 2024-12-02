@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/KafkaSample/.idea/.idea.KafkaSample/.idea
+/KafkaSample/.vs
+/.vs
+/KafkaSample/Application.Consumer/bin/Debug/netcoreapp3.1
+/KafkaSample/Application.Consumer/obj
+/KafkaSample/Application.Productor/bin/Debug/netcoreapp3.1
+/KafkaSample/Application.Productor/obj
+/KafkaSample/Domain/bin/Debug/netcoreapp3.1
+/KafkaSample/Domain/obj
